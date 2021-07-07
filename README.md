@@ -6,6 +6,7 @@
 ## Table of Contents :open_file_folder:
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
+* [Setup](#setup) 
 * [Screenshot](#screenshot)
 * [Contact](#contact)
 
@@ -18,9 +19,16 @@
 - VS Code
 - Node.js
 
+## Setup
+To run this project, install it locally using node and the file local:
+
+>$ cd ../folder
+
+>$ node script.js
+
 ## Screenshot
 ![screenshot](birthdaymessage.png)
 
 ## Contact :e-mail:
-> Created by @ioanagh27 
+> Created by [@ioanagh27](https://github.com/ioanagh27) 
 

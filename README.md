@@ -2,9 +2,9 @@
 > Mixed Messages
 
 ## Table of Contents
-* [General Info] (#general-information)
-* [Technologies Used] (#technologies-used)
-* [Contact] (#contact)
+* [General Info] (#-general-information)
+* [Technologies Used] (#-technologies-used)
+* [Contact] (#-contact)
 
 ## General Information
 > A message generator program using JavaScript. Every time a user runs the program, they should get a new, randomized birthday message.

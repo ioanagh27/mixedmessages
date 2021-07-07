@@ -4,15 +4,16 @@
 ## Table of Contents
 * [General Info] (#general-information)
 * [Technologies Used] (#technologies-used)
-* [Contact ] (#contact)
+* [Contact] (#contact)
 
 ## General Information
-> A message generator program using JavaScript. Every time a user runs the program, they should get a new, randomized output.
+> A message generator program using JavaScript. Every time a user runs the program, they should get a new, randomized birthday message.
 
 ## Technologies Used
 - JavaScript
 - Git and GitHub
-- Command line
+- VS Code
+- Node.js
 
 ## Contact
 > Created by @ioanagh27
